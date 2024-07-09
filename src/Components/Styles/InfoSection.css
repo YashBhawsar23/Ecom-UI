@@ -1,0 +1,64 @@
+/* src/Styles/FeaturesSection.css */
+
+.features {
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px; */
+  display: grid;
+  grid-template-columns: repeat(6, 1fr); /* 6 columns on desktop */
+  /* gap: 20px; */
+  padding: 20px;
+}
+
+.text {
+  padding: 6px;
+  background-color: #cdebbc;
+  border-radius: 10px;
+}
+.f-box {
+  text-align: center;
+  flex: 1 1 30%;
+  margin: 10px;
+  /* padding: 20px; */
+  padding: 20px;
+  padding-bottom: 0px;
+  /* background: #f9f9f9; */
+  background: #9a78dd;
+  border-radius: 8px;
+  transition: transform 0.3s;
+}
+
+.f-box img {
+  width: 120px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.f-box h6 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #333;
+}
+
+.f-box:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  /* .f-box {
+    flex: 1 1 45%;
+  } */
+  .features {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns on mobile */
+  }
+}
+
+@media (max-width: 480px) {
+  /* .f-box {
+    flex: 1 1 100%;
+  } */
+  .features {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns on mobile */
+  }
+}
