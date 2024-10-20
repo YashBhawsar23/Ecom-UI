@@ -71,7 +71,12 @@ const ProductSection = () => {
             <div key={product.id} className="product-card">
               <img src={product.imgSrc} alt="product image" />
               <h4>{product.title}</h4>
-              <h4>{product.price}</h4>
+              <div className="fix">
+                <h4>{product.price}</h4>
+                <button className="add-to-cart-btn">
+                  <FaCartShopping className="cart-icon" />
+                </button>
+              </div>
             </div>
           ))}
         </div>

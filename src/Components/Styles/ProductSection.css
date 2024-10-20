@@ -103,3 +103,31 @@ h1 {
 .price {
   font-weight: bold;
 }
+
+.add-to-cart-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d8bfd8;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-to-cart-btn:hover {
+  background-color: #9a78dd;
+}
+
+.cart-icon {
+  margin-right: 8px;
+}
+
+.fix {
+  display: flex;
+  align-items: center; /* Vertically centers the content */
+  justify-content: space-between; /* Adds space between price and button */
+}
