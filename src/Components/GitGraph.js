@@ -41,8 +41,7 @@ const GitGraph = () => {
         neque, vel condimentum eros. Duis et malesuada libero. Morbi iaculis ut
         urna sit amet ultricies. Maecenas nec rhoncus arcu, at vulputate tellus.
         Aliquam aliquam arcu nibh, eget cursus purus molestie a. In sodales
-        posuere magna, eu mollis neque finibus c Mauris vel euismod lacus, eget
-        vestibulum nisl. Suspe
+        posuere magna,
       </p>
     </>
   );
