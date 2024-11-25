@@ -29,7 +29,7 @@ const GitGraph = () => {
         felis convallis fringilla. Suspendisse mattis, enim ut ornare mattis,
         eros tellus tempus erat, eget gravida justo felis a felis. Donec et urna
         ac tortor ullamcorper blandit at in eros. Curabitur id lacus efficitur
-        risus vulputate egestas. Nulla facilisi. Fusce congue dui vitae eros
+        risus vulputate egestas. Nulla facilisi. Fusce congue due eros
         fermentum, id ullamcorper felis tincidunt. Nunc eu vulputate nisl.
         Integer id cursus neque. Orci varius natoque penatibus et magnis dis
         parturient montes, nascetur ridiculus mus. Vivamus imperdiet a risus
