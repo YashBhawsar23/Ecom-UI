@@ -40,7 +40,7 @@ const GitGraph = () => {
         vitae mattis magna, quis scelerisque mauris. Curabitur non maximus
         neque, vel condimentum eros. Duis et malesuada libero. Morbi iaculis ut
         urna sit amet ultricies. Maecenas nec rhoncus arcu, at vulputate tellus.
-        Aliquam aliquam arcu
+        Aliquam al
       </p>
     </>
   );
