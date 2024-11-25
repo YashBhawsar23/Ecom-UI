@@ -35,7 +35,7 @@ const GitGraph = () => {
         parturient montes, nascetur ridiculus mus. Vivamus imperdiet a risus
         vitae tristique. Quisque commodo metus aliquet, lobortis tellus vitae,
         bibendum erat. Etiam eu auctor purus. Duis volutpat, tellus aliquet
-        commodo viverra, eros nibh bibendum lorem, vitae imperdiet dolor orci ut
+        commodo viverra, eros nibh bibendum lorem, viperdiet dolor orci ut
         purus. Maecenas ultricies facilisis dolor, sed pharetra lorem. Morbi
         vitae mattis magna, quis scelerisque Curabi
       </p>
