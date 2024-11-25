@@ -38,8 +38,8 @@ const GitGraph = () => {
         commodo viverra, eros nibh bibendum lorem, vitae imperdiet dolor orci ut
         purus. Maecenas ultricies facilisis dolor, sed pharetra lorem. Morbi
         vitae mattis magna, quis scelerisque mauris. Curabitur non maximus
-        neque, vel condimentum eros. Duis et malesuada libero. Morbi iaculis ut
-        urna sit amet ultricies. Maecenas nec rho
+        neque, vel condimentum eros. Dmalesuada libero. Morbi iaculis ut urna
+        sit amet ultricies. Maecenas nec rho
       </p>
     </>
   );
